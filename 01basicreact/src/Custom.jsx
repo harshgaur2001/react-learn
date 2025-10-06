@@ -1,7 +1,7 @@
 function Custom() {
   return (
     <>
-      <h1>Custom Element</h1>
+      <h1>Custom Element/Component</h1>
     </>
   );
 }
